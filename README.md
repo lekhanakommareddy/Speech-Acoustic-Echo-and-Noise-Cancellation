@@ -38,7 +38,3 @@ The model achieves significant improvement in speech enhancement metrics:
 Improved Signal-to-Noise Ratio (SNR)
 
 Better PESQ (Perceptual Evaluation of Speech Quality)
-
-Higher MOS-LQO (Mean Opinion Score - Listening Quality Objective)
-
-Sample outputs can be found in the results/ directory.
