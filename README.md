@@ -32,9 +32,10 @@ This project presents a deep learning-based solution for enhancing real-time spe
 -**Models and Techniques**: CNN, LSTM, SE Blocks, Multi-Head Attention
 
 
+
 ## Results
 The model achieves significant improvement in speech enhancement metrics:
 
-Improved Signal-to-Noise Ratio (SNR)
+Higher **ERLE (Echo Return Loss Enhancement)** values, indicating effective echo cancellation
 
-Better PESQ (Perceptual Evaluation of Speech Quality)
+Better **PESQ (Perceptual Evaluation of Speech Quality)**
